@@ -1,0 +1,47 @@
+.Header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: brown;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Header label{
+    font-size: 20px;
+    margin: 3px;
+}
+.Header input{
+    height: 20px;
+    border-radius: 6px;
+}
+ section{
+    background-color: aquamarine;
+        color: black;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    background-color: bisque;
+    color: black;
+    font-size: 20px;
+    width: 300px;
+    
+}
+.Footer{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    
+}
+a{
+    text-decoration: none;
+    
+}
+.Apex{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    padding-left: 10px;
+}
